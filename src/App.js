@@ -4,7 +4,6 @@ import Home from './Home';
 import Services from './Services';
 import Blogs from './Blogs';
 import ContactUs from './ContactUs';
-import Navbar from './Navbar';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 
